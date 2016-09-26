@@ -1,0 +1,11 @@
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\bin\Debug\ParserTupperware-samara.exe
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\bin\Debug\ParserTupperware-samara.pdb
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\bin\Debug\HtmlAgilityPack.dll
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\bin\Debug\HtmlAgilityPack.pdb
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\bin\Debug\HtmlAgilityPack.xml
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\obj\x86\Debug\ParserTupperware-samara.csprojResolveAssemblyReference.cache
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\obj\x86\Debug\ParserTupperware_samara.Form1.resources
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\obj\x86\Debug\ParserTupperware_samara.Properties.Resources.resources
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\obj\x86\Debug\ParserTupperware-samara.csproj.GenerateResource.Cache
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\obj\x86\Debug\ParserTupperware-samara.exe
+D:\work\programs\c#\ParserTupperware-samara\ParserTupperware-samara\obj\x86\Debug\ParserTupperware-samara.pdb
